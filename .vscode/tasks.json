@@ -1,0 +1,12 @@
+{
+    "version": "0.1.0",
+    "command": "C:\\Users\\divyesh.s.sharma\\AppData\\Local\\Programs\\Python\\Python35-32\\python",
+    "args": ["MishkiPlayingGames.py"],
+    "problemMatcher": {
+        "fileLocation": ["relative", "${workspaceRoot}"],
+        "pattern": {
+            "regexp": "^(.*)+s$",
+            "message": 1
+        }
+    }
+}
